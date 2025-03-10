@@ -44,6 +44,8 @@ Ensures at least 10 messages are processed.
 Scrapes multiple Channels  
 
 Saves the data [ including the id of the links, and not just the text ] to txt file . Saves Extracted Messages to a File
+
+
 ---
 
 ---
@@ -65,4 +67,6 @@ Pasted movie name: interstellar
 clicked on "show more"
 
 grabbing channel names from the suggested channel items and pasted on terminal
+
+
 ---
